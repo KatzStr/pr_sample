@@ -1,4 +1,4 @@
-
+#プルリクエスト用サンプルコード
 
 def calc(x, y, operator)
   if operator == "+"
