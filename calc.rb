@@ -1,5 +1,5 @@
 #プルリクエスト用サンプルコード
-
+#edited by *
 def calc(x, y, operator)
   if operator == "+"
     puts x + y
