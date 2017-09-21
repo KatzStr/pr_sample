@@ -1,4 +1,5 @@
 #プルリクエスト用サンプルコード
+#work3
 
 def calc(x, y, operator)
   
@@ -12,7 +13,7 @@ def calc(x, y, operator)
     
   #掛け算
   elsif operator == "*"
-    puts x - y
+    puts x * y
     
   #割り算
   elsif operator == "/"
