@@ -1,5 +1,4 @@
 #プルリクエスト用サンプルコード
-#work3
 
 def calc(x, y, operator)
   
@@ -26,4 +25,5 @@ def calc(x, y, operator)
   else
     puts "不正な演算子です"
   end
+  
 end
